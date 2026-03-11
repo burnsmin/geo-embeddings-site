@@ -61,8 +61,6 @@ geo-embeddings-site/
 
 All content lives in Markdown files at the project root. VitePress renders them using [its Markdown extensions](https://vitepress.dev/guide/markdown) — standard Markdown plus frontmatter, custom containers, and Vue components.
 
-## Attribution
-
 
 ## Attribute 
 Thank you to Max Jones and the [GeoZarr-Site](https://github.com/zarr-developers/geozarr-site) for sharing the structure of the GeoZarr-Site with Geo-Embeddings
