@@ -26,8 +26,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
-      { text: "Conventions", link: "/conventions" },
-      { text: "Roadmap", link: "/roadmap" },
+      { text: "Best Practices", link: "/bestpractices" },
       { text: "Implementations", link: "/implementations" },
       { text: "Get Involved", link: "/get-involved" },
       { text: "FAQ", link: "/faq" },
