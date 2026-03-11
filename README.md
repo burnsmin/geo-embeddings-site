@@ -6,13 +6,13 @@ Built with [VitePress](https://vitepress.dev/).
 
 ## Pages
 
-| Page | File | Description |
-|------|------|-------------|
-| Home | `index.md` | Landing page with project overview and feature highlights |
-| Conventions | `conventions.md` | Core conventions (geo-proj, spatial, multiscales) with maturity levels |
-| Roadmap | `roadmap.md` | V1 release milestones targeting OGC standardization |
-| Implementations | `implementations.md` | Matrix of libraries and tools with feature support |
-| Get Involved | `get-involved.md` | Community links, meeting schedule, and contribution guide |
+| Page            | File                 | Description                                                            |
+| --------------- | -------------------- | ---------------------------------------------------------------------- |
+| Home            | `index.md`           | Landing page with project overview and feature highlights              |
+| Conventions     | `conventions.md`     | Core conventions (geo-proj, spatial, multiscales) with maturity levels |
+| Roadmap         | `roadmap.md`         | V1 release milestones targeting OGC standardization                    |
+| Implementations | `implementations.md` | Matrix of libraries and tools with feature support                     |
+| Get Involved    | `get-involved.md`    | Community links, meeting schedule, and contribution guide              |
 
 ## Development
 
@@ -48,3 +48,7 @@ geozarr-site/
 All content lives in Markdown files at the project root. VitePress renders them using [its Markdown extensions](https://vitepress.dev/guide/markdown) — standard Markdown plus frontmatter, custom containers, and Vue components.
 
 Each page on the live site also has an "Edit this page on GitHub" link in the footer.
+
+
+## Attribute 
+Thank you to Max Jones and the [GeoZarr-Site](https://github.com/zarr-developers/geozarr-site) for sharing the structure of the GeoZarr-Site with Geo-Embeddings
