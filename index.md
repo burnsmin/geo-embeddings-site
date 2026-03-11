@@ -1,9 +1,9 @@
 ---
-description: GeoZarr defines modular, composable Zarr conventions for storing multidimensional georeferenced grids. An emerging OGC standard for cloud-native geospatial data.
+description: Geo-Embeddings defines best practices for storing embeddings.
 layout: home
 
 hero:
-  name: GeoEmbeddings
+  name: Geo-Embeddings
   text: Geospatial Conventions for Embeddings
   tagline: 
   actions:
