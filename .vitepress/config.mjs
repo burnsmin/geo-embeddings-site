@@ -31,7 +31,6 @@ export default defineConfig({
       { text: "Core Conventions", link: "/conventions" },
       { text: "Implementations", link: "/implementations" },
       { text: "Get Involved", link: "/get-involved" },
-      { text: "FAQ", link: "/faq" },
       {
         text: "Glossary",
         items: [

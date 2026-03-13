@@ -4,7 +4,7 @@ description: Contribute to Geo-Embeddings
 
 # Get Involved
 
-Geo-Embeddings welcomes contributions from anyone — OGC membership is not required.
+Geo-Embeddings welcomes contributions from anyone 
 
 ## Start Here
 
@@ -22,6 +22,8 @@ The best way to get involved is through GitHub:
 
 
 ## Community Channels
+
+Stay tuned for info on community channels and monthly working group meetings.
 
 | Channel | Purpose |
 | ------- | ------- |
