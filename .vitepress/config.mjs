@@ -81,7 +81,7 @@ export default defineConfig({
 
     editLink: {
       pattern:
-        "https://github.com/geo-embeddings/geo-embeddings-site/edit/main/site/:path",
+        "https://github.com/geo-embeddings/geo-embeddings-site/edit/main/:path",
       text: "Edit this page on GitHub",
     },
   },
