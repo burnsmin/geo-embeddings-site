@@ -4,7 +4,7 @@ export default defineConfig({
   base: "/",
   title: "Geo-Embeddings",
   description:
-    "Modular Zarr conventions for storing and accessing multidimensional georeferenced grids",
+    "Suggested best practices for storing and accessing geospatial embeddings",
   sitemap: {
     hostname: "https://geoembeddings.org",
   },
@@ -18,7 +18,7 @@ export default defineConfig({
       {
         property: "og:description",
         content:
-          "Modular Zarr conventions for storing and accessing multidimensional georeferenced grids",
+          "Suggested best practices for storing and accessing geospatial embeddings",
       },
     ],
     ["meta", { property: "og:type", content: "website" }],
