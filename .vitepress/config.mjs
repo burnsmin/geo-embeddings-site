@@ -32,6 +32,13 @@ export default defineConfig({
       { text: "Implementations", link: "/implementations" },
       { text: "Get Involved", link: "/get-involved" },
       {
+        text: "HF Cards",
+        items: [
+          { text: "Model Card", link: "/model-card" },
+          { text: "Data Card", link: "/data-card" },
+        ],
+      },
+      {
         text: "Glossary",
         items: [
           { text: "All Terms", link: "/glossary" },
